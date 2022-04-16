@@ -5,13 +5,13 @@ class Menu extends Phaser.Scene {
     preload() {
         // load audio
         this.load.audio('sfx_select', './assets/blip_select12.wav');
-        this.load.audio('sfx_explosion', './assets/explosion38.wav');
-        this.load.audio('sfx_rocket', './assets/rocket_shot.wav');
+        this.load.audio('sfx_explosion', './assets/nyunyu_wow.m4a');
+        this.load.audio('sfx_nyunyu', './assets/nyunyu_ao.m4a');
     }
     create() {
         // menu text configuration
         let menuConfig = {
-            fontFamily: 'Courier',
+            fontFamily: 'Dialog',
             fontSize: '28px',
             backgroundColor: '#F3B141',
             color: '#843605',
