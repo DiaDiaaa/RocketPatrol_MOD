@@ -19,6 +19,11 @@ let borderPadding = borderUISize / 3;
 let keyW, keyA,keyD,keyR,keyUP,keyLEFT, keyRIGHT;
 
 
+// Name: Diana Yee
+// Project Title: NyuNyu FETCH
+// Date: 4/15/2022 - 4/16/2022
+// Time Duration: ~15 hours
+
 // Point Breakdowns
 // Redesign the game's artwork, UI, and sound to change its theme/aesthetic (to something other than sci-fi) (60)
 // Implement a simultaneous two-player mode (30)    // Coorporating game where fire key control by each other
@@ -26,7 +31,7 @@ let keyW, keyA,keyD,keyR,keyUP,keyLEFT, keyRIGHT;
 // Create a new spaceship type (w/ new artwork) that's smaller, moves faster, and is worth more points (20)
 
 
-// Implementation
+// Explantion on certain implementation (did not kept track where I implement the code D:)
 // Change most artwork, sound and softer UI color with my best ability :,)
 // Added another NyuNyu player into two-player mode
 // Add a background music from a copyright-free by crediting them
@@ -37,3 +42,4 @@ let keyW, keyA,keyD,keyR,keyUP,keyLEFT, keyRIGHT;
 // Casting my cat NyuNyu amazing hunting dance and sounds
 // Background music by copyright free by crediting https://otologic.jp/free/bgm/game-action-nes03.html
 // Drawing and photography by meee (Diana Yee):>
+// Background code implementation refer https://stackoverflow.com/questions/34210393/looping-audio-in-phaser
